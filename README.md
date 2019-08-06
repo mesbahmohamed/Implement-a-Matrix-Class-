@@ -6,26 +6,35 @@ Project of nano degree from Udacity - Intro to self-driving cars
 
 In this project you will implement a `Matrix` class in Python. Specifically, you will implement the following methods:
 
-class Matrix:
-  def determinant(self):
+
+**class Matrix:**
+  def **_determinant_**(self):
       # your code
 
-  def trace(self):
+
+  def **_trace_**(self):
       # your code
 
-  def inverse(self):
+
+  def **_inverse_**(self):
       # your code
 
-  def transpose(self):
+
+  def **_transpose_**(self):
      # your code
+
 
   #Overloaded operators
 
-  def __add__(self,other):
+
+  def **__add__**(self,other):
     # your code
 
-  def __sub__(self,other):
+
+  def **__sub__**(self,other):
     # your code
 
-  def __mul__(self,other):
+
+  def **__mul__**(self,other):
     # your code
+    
